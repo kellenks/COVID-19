@@ -12,6 +12,7 @@ In an effort to maximize collaboration, we are more than happy to share some dat
   * Great for social distancing metrics
   * Trends as of March 29 and April 5
   * Raw: Empty/Null values for non-reported measures
-  * Filled: Empty county-level values replaced by state-level measures
+  * Filled: Empty/Null county-level values replaced by state-level measures
   * Excel and Pickle files
   * Original PDF's can be found by searching for "Google Mobility Reports"
+  * Contact Kellen at ksandvi@emory.edu for Python notebook used for PDF-TXT conversion and parsing
