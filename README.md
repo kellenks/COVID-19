@@ -8,7 +8,7 @@ In an effort to maximize collaboration, we are happy to share some data/code we 
 
 
 ## Contents
-* #### Parsed Google mobility data - mobile phone tracking per county (FIPS code)
+* #### Parsed Google mobility data: mobile phone tracking per county (FIPS code)
   * Great for social distancing metrics
   * Trends as of March 29 and April 5
   * Raw: Empty/Null values for non-reported measures
