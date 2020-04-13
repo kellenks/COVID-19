@@ -3,7 +3,7 @@
 ### SIR Isaac Newton's public repo for COVID-19 Math Modeling Contest
 
 
-In an effort to maximize collaboration, we are happy to share some data/code we think could be helpful for other groups
+In an effort to maximize collaboration, we are happy to share some data/code we think could be helpful for other groups!
 
 
 
@@ -25,7 +25,7 @@ In an effort to maximize collaboration, we are happy to share some data/code we 
     , https://www.census.gov/data/tables/2015/demo/metro-micro/commuting-flows-2015.html
     , http://www.usreligioncensus.org/
     , https://www.fcc.gov/general/form-477-census-tract-information
-    
+   * Excel and Pickle files
    * Information on each county (may contain missing values):
  ```Python
  ['FIPS',
