@@ -4,7 +4,7 @@
 
 #### Documentation
 We provide documentation to supplement our paper submission and to share our methodology. 
-* The raw data is available from the xlsx or csv files, but all notebooks should be run to generate neeeded pickle files
+* The raw data is available from the xlsx or csv files, but all notebooks should be run to generate needed pickle files
 * To use, clone and run notebooks in the following order:
   1) Base_Commuting_Matrix
   2) Adjusted_Commuter_Flows
