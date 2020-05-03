@@ -29,7 +29,7 @@ In an effort to maximize collaboration, we are happy to share some data we think
   * Excel and Pickle files
   * Original PDF's can be found by searching for "Google Mobility Reports"
   * Contact Kellen at ksandvi@emory.edu for Python notebook used for PDF-TXT conversion and parsing
-  * NOTE: A much more exhaustive CSV file of daily mobility tracking is now available on the webpage
+  * Note: A much more exhaustive CSV file of daily mobility tracking is now available on the webpage
   
  * #### Aggregated, county-level features
    * Collected from the following sources: https://www.countyhealthrankings.org/ 
